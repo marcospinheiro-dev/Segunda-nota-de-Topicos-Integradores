@@ -19,4 +19,6 @@ Os níveis estão relacionados ao objetivo e ao objeto de teste, seja de forma m
 O teste Unitário é feito nas menores partes do código, pois, caso outros testes falhem, então será possível saber o local exato da falha. Algo considerado muito importante na programação, são as boas práticas e dentro dos testes unitários, uma BP é que esses testes sejam criados e executados pelos desenvolvedores, outra coisa
 importante é que esses testes servirão para novos desenvolvedores que estejam entrando no time possam entender melhor o código e poderem pensar em soluçoes.
 
-Levando em consideração
+Levando em consideração que um sistema tem várias partes, o Teste Unitário testa parte das partes, porém precisamos ter certeza que essas partes estão se comunicando, interagindo entre si de forma correta, nesse momento passamos a um nível mais avançado que poderá nos dar essa precisão, o Teste de Integfração.
+
+Por fim, o Teste de Ponta a Ponta (E2E),será a nível de usuário, saber se realmente o sistema atende aos requisitos solicitados no projeto, por ser um teste mais complexo, deve-se atentar às partes mais importantes do produto, à regra de negócio. Os testes servirão para confirmar a intenção real do sitema, a geração de todas as informações necessárias ao negócio, bem como, o armazenamento no banco de dados dos registros solicitados pelo cliente.
