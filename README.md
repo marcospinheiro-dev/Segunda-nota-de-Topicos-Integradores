@@ -9,7 +9,9 @@ São testes que verificam se uma parte específica do código, costumeiramente a
 A divisão mais comum entre as várias Pirâmides, é aquela representada por 3 níveis:
 
 A Base - Teste Unitário
+
 O Meio - Teste de Integração
+
 O Topo - Testes Ponta a Ponta
 
 Os níveis estão relacionados ao objetivo e ao objeto de teste, seja de forma manual ou automatizada.
