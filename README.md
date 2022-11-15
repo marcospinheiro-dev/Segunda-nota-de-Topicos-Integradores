@@ -6,3 +6,9 @@ São testes que verificam se uma parte específica do código, costumeiramente a
 #### 3. O que são testes automatizados?
 É um procedimento que permite que o sistema seja testado de forma padronizada e repetitiva, com o mínimo envolvimento de mão de obra manual. Nesse sentido, as ferramentas de automação não substituem o papel da equipe responsável por realizar os testes manuais no sistema.
 #### 4. Escolha uma pirâmide de testes e descreva com suas palavras cada secção da pirâmide.
+A divisão mais comum entre as várias Pirâmides, é aquela representada por 3 níveis:
+A Base - Teste Unitário
+O Meio - Teste de Integração
+O Topo - Testes Ponta a Ponta
+Os níveis estão relacionados ao objetivo e ao objeto de teste, seja de forma manual ou automatizada.
+
