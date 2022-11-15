@@ -2,7 +2,7 @@
 Aumenta a eficiência do processo de testagem.
 Então, os testes automatizados economizam tempo e conseguem captar mais detalhadamente os possíveis erros, aumentando assim a eficiência do teste e da entrega final.
 #### 2. O que são testes unitários?
-São testes que verificam se uma parte específica do código, costumeiramente a nível de função, está funcionando corretamente. Em um ambiente orientado a objetos é usualmente a nível de classes e a mínima unidade de testes inclui construtores e destrutores.
+São testes que verificam se uma parte específica do código, costumeiramente a nível de função, se está funcionando corretamente. Em um ambiente orientado a objetos é usualmente a nível de classes e a mínima unidade de testes inclui construtores e destrutores.
 #### 3. O que são testes automatizados?
 É um procedimento que permite que o sistema seja testado de forma padronizada e repetitiva, com o mínimo envolvimento de mão de obra manual. Nesse sentido, as ferramentas de automação não substituem o papel da equipe responsável por realizar os testes manuais no sistema.
 #### 4. Escolha uma pirâmide de testes e descreva com suas palavras cada secção da pirâmide.
