@@ -18,4 +18,5 @@ Os níveis estão relacionados ao objetivo e ao objeto de teste, seja de forma m
 
 O teste Unitário é feito nas menores partes do código, pois, caso outros testes falhem, então será possível saber o local exato da falha. Algo considerado muito importante na programação, são as boas práticas e dentro dos testes unitários, uma BP é que esses testes sejam criados e executados pelos desenvolvedores, outra coisa
 importante é que esses testes servirão para novos desenvolvedores que estejam entrando no time possam entender melhor o código e poderem pensar em soluçoes.
+
 Levando em consideração
